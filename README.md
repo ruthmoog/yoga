@@ -1,7 +1,7 @@
 # yoga
-Help generating a schedule for daily yoga practise.
+_Generate a schedule for daily yoga practise._
 
-I practise daily yoga at home, where I typically practise via classes on youtube. Yoga with Adrienne provides themed [monthly calendars](https://yogawithadriene.com/calendar/), but these classes don't always fit with my schedule. I want to cherry pick classes from the monthly calendar (to get a feel of the theme), whilst creating my own practice schedule using my favourite videos. 
+I practise daily yoga at home, where I typically practise via classes on youtube. Yoga with Adriene provides themed [monthly calendars](https://yogawithadriene.com/calendar/), but these classes don't always fit with my schedule. I want to cherry pick classes from the monthly calendar (to get a feel of the theme), whilst creating my own practice schedule using my favourite videos. 
 I've been doing this manually until now; I'm going to automate it with Java instead!
 
 -----
